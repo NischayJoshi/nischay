@@ -9,7 +9,9 @@ int main(void) {
     scanf("%d",&T);
     for(i=0;i<T;i++)
     {
-    	scanf("%ld%ld%ld",&c,&d,&l);
+		int baba = 100;
+		float ch = 445;
+		    	scanf("%ld%ld%ld",&c,&d,&l);
         if(l<=4*(c+d)&&(l%4==0))
         {
        	 if (c>2*d)
