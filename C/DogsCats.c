@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+	//HOWS YOUR SON BRO 
+
+
 int main(void) {
 	int i,T;
 	long int d,c,l;
